@@ -1,0 +1,74 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+fundamentals = new Template.Microlesson {
+  friendlyName = "Fundamentals"
+  dirName = "fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+boxModel = new Template.Microlesson {
+  friendlyName = "The Box Model"
+  dirName = "box-model"
+  type = "Content"
+  videoUrl = ""
+}
+
+commonProperties = new Template.Microlesson {
+  friendlyName = "Common Properties"
+  dirName = "common-properties"
+  type = "Content"
+  videoUrl = ""
+}
+
+selectors = new Template.Microlesson {
+  friendlyName = "Selectors"
+  dirName = "selectors"
+  type = "Content"
+  videoUrl = ""
+}
+
+multipleStylesheets = new Template.Microlesson {
+  friendlyName = "Multiple Stylesheets"
+  dirName = "multiple-stylesheets"
+  type = "Content"
+  videoUrl = ""
+}
+
+variables = new Template.Microlesson {
+  friendlyName = "Variables"
+  dirName = "variables"
+  type = "Content"
+  videoUrl = ""
+}
+
+shorthandProperties = new Template.Microlesson {
+  friendlyName = "Shorthand Properties"
+  dirName = "shorthand-properties"
+  type = "Content"
+  videoUrl = ""
+}
+
+history = new Template.Microlesson {
+  friendlyName = "History of CSS"
+  dirName = "history"
+  type = "Content"
+  videoUrl = ""
+}
+

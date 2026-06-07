@@ -1,0 +1,187 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to CSS",
+    "name": "intro-to-css",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Box Model",
+          "dirName": "box-model",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Common Properties",
+          "dirName": "common-properties",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Selectors",
+          "dirName": "selectors",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Multiple Stylesheets",
+          "dirName": "multiple-stylesheets",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Variables",
+          "dirName": "variables",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Shorthand Properties",
+          "dirName": "shorthand-properties",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "History of CSS",
+          "dirName": "history",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Box Model",
+          "dirName": "box-model",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Common Properties",
+          "dirName": "common-properties",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Selectors",
+          "dirName": "selectors",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Multiple Stylesheets",
+          "dirName": "multiple-stylesheets",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Variables",
+          "dirName": "variables",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Shorthand Properties",
+          "dirName": "shorthand-properties",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "History of CSS",
+          "dirName": "history",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
