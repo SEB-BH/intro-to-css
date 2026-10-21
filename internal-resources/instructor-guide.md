@@ -3,6 +3,10 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
+## Notes from Nabila
+- Be sure to update the setup with the html code block from the previous HTML lesson so there is some continuity
+- In the `selector` section, when we talk about descendants you may need to modify the code snippet to reflect code you actually have in your HTML
+
 ## General overview
 
 If you are familiar with the legacy Intro to CSS content this version will intentionally feel much lighter.
