@@ -19,8 +19,7 @@ This entry-level module on Cascading Style Sheets (CSS) is tailored for beginner
 | [Selectors](./selectors/README.md)                       | Targeting specific elements with CSS element, id, class, and combinator selectors.                                             |
 | [Multiple Stylesheets](./multiple-stylesheets/README.md) | Use multiple stylesheets to organize and manage CSS code, order of precedence in stylesheet loading.                           |
 | [Variables](./variables/README.md)                       | Introduction to CSS Variables: Implementing, inheriting, and modifying custom properties for efficient styling and rebranding. |
-| [Shorthand properties](./shorthand-properties/README.md) | CSS shorthand properties, set values for multiple sides.                                                                       |
-| [History of CSS](./history/README.md)                    | History of CSS,impact on web development and browser compatibility.                                                            |
+| [In-line Styling](./shorthand-properties/README.md) | CSS styling directly in our HTML document.                                                                       |
 | **Total content**                                        |   80 min   |                                                              |                                                                                                                                |
 
 ## References
