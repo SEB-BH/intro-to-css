@@ -43,7 +43,7 @@ All three of the example values above will give us the same color!
 
 Any of the three methods is acceptable for declaring a color value, but there are advantages to using RGB or hex codes, namely precision and range.
 
-Hex codes and RGB values give us variety and precision that color names can't. One of the reasons for this is that once you deviate from basic colors like red, green, blue, and so on, color names can be subjective. There are only [140 predefined color keywords](http://web.simmons.edu/~grovesd/comm244/notes/week3/css3-color-names) in CSS, but over 16 million possible hex/RGB color combinations exist.
+Hex codes and RGB values give us variety and precision that color names can't. One of the reasons for this is that once you deviate from basic colors like red, green, blue, and so on, color names can be subjective. There are only [140 predefined color keywords](https://www.w3schools.com/cssref/css_colors.php) in CSS, but over 16 million possible hex/RGB color combinations exist.
 
 ## 🎓 You Do
 
