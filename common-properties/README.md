@@ -47,15 +47,6 @@ Hex codes and RGB values give us variety and precision that color names can't. O
 
 ## 🎓 You Do
 
-Take a few minutes and visit one of the following resources and learn more about a couple of properties of your choosing:
-
-- [CSS-Tricks](https://css-tricks.com/almanac/properties/) - one of the best sites for all things CSS
-- [codrops](https://tympanus.net/codrops/css_reference/#section_css-property)
-
-After you've learned about that property, apply it in your code.
-
-### Practice
-
 Now that you've learned about some common properties, let's get some more practice.
 
 - Set the margin on `<body>` element to 0 on all four sides. This is a common reset we do on all our pages because most browsers give a margin to the body element, which we usually do not want.
