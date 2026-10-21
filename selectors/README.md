@@ -54,8 +54,9 @@ We use the descendant selector to target elements nested within another element,
 A descendant selector is defined by using a space character between two other selectors:
 
 ```css
-/* This will match all <p> tags nested anywhere within an <div> tag */
-div p { ... }
+ol span {
+    color: blue;
+}
 ```
 
-Note that this rule does not target `<div>` elements, only `<p>` elements. The last item in the combinator receives the styling.
+Note that this rule does not target `<ol>` elements, only `<span>` elements. The last item in the combinator receives the styling.
