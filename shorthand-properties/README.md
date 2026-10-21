@@ -85,18 +85,6 @@ This helps us keep our **structure** (HTML) separate from our **styling** (CSS).
 
 > 💡 Inline and internal CSS are older techniques that browsers still fully support. They are **not invalid or obsolete**, and they can be useful in certain situations. However, for the projects in this course, we will normally use **external stylesheets** because they are easier to organize and maintain.
 
-## 🎓 You Do
-
-Using the `index.html` and `css/style.css` files from Setup:
-
-1. Add `style="color: teal;"` to the `<h1>` element in `index.html`. Refresh the browser and observe the text color.
-2. Remove the inline `style` attribute.
-3. Add a `<style>` element inside `<head>` and use it to give the `h1` a `color` of `teal`. Refresh the browser again.
-4. Remove the `<style>` element. Add the same `h1` rule to `css/style.css` instead.
-5. Refresh the browser and confirm the heading is still teal.
-
-**Check:** Your final solution should style the heading using only the external CSS file.
-
 ## How Do Inline, Internal, and External CSS Affect the Cascade?
 
 When more than one CSS rule tries to style the same element, the browser uses the CSS cascade to decide which style wins.
