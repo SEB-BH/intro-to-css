@@ -62,14 +62,8 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Shorthand Properties",
+          "friendlyName": "Inline and Internal CSS",
           "dirName": "shorthand-properties",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "History of CSS",
-          "dirName": "history",
           "type": "Content",
           "videoUrl": ""
         }
@@ -149,15 +143,9 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Shorthand Properties",
+          "friendlyName": "Inline and Internal CSS",
           "dirName": "shorthand-properties",
-          "type": "Level Up content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "History of CSS",
-          "dirName": "history",
-          "type": "Level Up content",
+          "type": "Content",
           "videoUrl": ""
         }
       ],
