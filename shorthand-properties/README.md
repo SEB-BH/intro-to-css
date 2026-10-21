@@ -59,7 +59,7 @@ This is easier to manage than inline CSS because one rule can style multiple ele
 
 ## External CSS: Our recommended approach
 
-For most projects, we write CSS in a separate file, such as `css/style.css`, and connect it to HTML using a `<link>` element inside `<head>`.
+For most projects, we write CSS in a separate file, such as `css/style.css`, and connect it to HTML using a `<link>` element inside `<head>` like did at the start of this lesson.
 
 **index.html**
 
@@ -67,18 +67,6 @@ For most projects, we write CSS in a separate file, such as `css/style.css`, and
 <head>
   <link rel="stylesheet" href="./css/style.css">
 </head>
-```
-
-**css/style.css**
-
-```css
-h1 {
-  color: purple;
-}
-
-p {
-  font-size: 18px;
-}
 ```
 
 This helps us keep our **structure** (HTML) separate from our **styling** (CSS). We can also reuse the same stylesheet on several pages.
