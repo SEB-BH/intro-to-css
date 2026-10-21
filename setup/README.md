@@ -39,25 +39,58 @@ Replace the existing `<body>` tag with the following:
 
 ```html
 <body>
-  <h1>Intro to CSS</h1>
-  <p id="about">More About CSS</p>
-  <div>This is a DIV</div>
-  <div class="important">This is another DIV</div>
-  <div class="important super-cool">
-    <p>This is a paragraph inside of the third DIV</p>
-  </div>
-  <a href="https://github.com">Visit GitHub</a>
+    
+<!-- THIS IS A COMMENT -->
+<header>
+     <h1 id="title">HTML Content!</h1>
+     <br />
 
-  <div id="comments">
-    <h2>Comments</h2>
-    <ul>
-      <li>Comment One</li>
-      <li class="super-cool">Comment Two</li>
-    </ul>
-    <button>This button does nothing</button>
-  </div>
+     <h1>Some other title</h1>
+</header>
+<main>
+    <section></section>
+    <figure></figure>
+</main>
+<footer></footer>
 
-  <footer>Here's a footer</footer>
+<h2>This is smaller</h2>
+<p>This is a paragraph</p>
+<strong>This is bold text.</strong>
+<h6>This is the smallest header</h6>
+<i><strong>This is bold text.</strong></i>
+<!-- <br /> -->
+<strong>This is <i>italic</i> text.</strong>
+
+<ul>
+    <li class="banana">this is a bullet point</li>
+    <li class="banana">this is a bullet point</li>
+    <li class="banana">this is a bullet point</li>
+    <li class="banana">this is a bullet point</li>
+    <li class="banana">this is a bullet point</li>
+</ul>
+
+<ol>
+    <li><span>first</span></li>
+    <li>second</li>
+    <li>third</li>
+    <li>third</li>
+</ol>
+
+<button>SUBMIT</button>
+
+<hr />
+
+<a href="https://google.com" target="_blank">Link</a>
+<img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Juvenile_Ragdoll.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="This is a cat">
+
+<input type="date">
+<img src="" alt="">
+<hr>
+<div>This is a div!</div><h1>This is an h1!</h1>
+<span>I'm a span!</span><button>I'm a button</button>
+
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi ducimus qui amet, distinctio expedita nisi ex maiores quas placeat accusantium dolor labore, commodi iusto recusandae, provident libero! Nam, commodi nemo?</p>
+
 </body>
 ```
 
