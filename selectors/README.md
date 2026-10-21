@@ -43,6 +43,75 @@ Add a `.` period followed by the class name to use a class selector.
 
 The class selector has a greater specificity than the element selector. If there are conflicts between the rule of an element selector and a class selector, the class selector will be used.  But if there are conflicts between class and id, the id selector will be used.
 
+## ♻️ Creating Reusable CSS Classes
+
+Many websites use classes to create cards to organize information. For example, a website for a training center might use cards to display its available courses.
+
+### 1. Update our HTML
+
+Find the empty `<section>` inside your `<main>` and replace it with:
+
+```
+<main>
+  <section class="card">
+    <h2>Web Development</h2>
+    <p>Learn to build websites using HTML and CSS.</p>
+    <button>View Course</button>
+  </section>
+
+  <figure></figure>
+</main>
+```
+
+### 2. Style our card
+
+In `style.css`, add:
+
+```
+.card {
+  background-color: lightblue;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+```
+
+Our card will look something like this:
+
+## Web Development
+
+Learn to build websites using HTML and CSS.
+
+View Course
+
+### 3. Reuse our class
+
+Add another section inside `<main>`:
+
+```
+<section class="card">
+  <h2>Python Programming</h2>
+  <p>Learn to write programs using Python.</p>
+  <button>View Course</button>
+</section>
+```
+
+Both cards share the same styling because they use the `.card` class.
+
+### 🎓 You Do
+
+1. Add a third card for a course of your choice.
+2. Change the `.card` background color to `bisque`.
+3. Notice how all three cards change.
+4. Add a shadow to the `.card` class:
+
+```
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+```
+
+> 💡 Remember: Classes are reusable! We can apply the same class to multiple HTML elements to keep our website's design consistent.
+
 ## Combinators
 
 Combinators provide a powerful way to select elements based on their relationship to other elements.
@@ -54,9 +123,9 @@ We use the descendant selector to target elements nested within another element,
 A descendant selector is defined by using a space character between two other selectors:
 
 ```css
-ol span {
-    color: blue;
+.card h2 {
+    color: maroon;
 }
 ```
 
-Note that this rule does not target `<ol>` elements, only `<span>` elements. The last item in the combinator receives the styling.
+Note that this rule does not target `.card` class elements, only `<h2>` elements. The last item in the combinator receives the styling.
