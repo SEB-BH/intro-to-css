@@ -65,7 +65,7 @@ For most projects, we write CSS in a separate file, such as `css/style.css`, and
 
 ```html
 <head>
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 ```
 
